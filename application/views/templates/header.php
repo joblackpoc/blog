@@ -4,8 +4,6 @@
     <title>Codeigniter Blog</title>
     <link rel="stylesheet" href="<?php echo base_url();?>assets/css/style.css" />
     <link rel="stylesheet" href="<?php echo base_url();?>assets/bootswatch/flatly/bootstrap.min.css" />
-    
-    
     <script src="<?php echo base_url();?>assets/ckeditor/ckeditor.js"></script>
   </head>
   <body>
